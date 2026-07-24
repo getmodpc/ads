@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "id": 2,
+  "id": 1001,
   "message": "Your message here.",
   "button": "Open",
   "close_button": "Skip",
