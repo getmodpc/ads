@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "id": 100000000002,
-  "message": "Your message here.",
+  "message": "Your message here. Test",
   "button": "Open",
   "close_button": "Skip",
   "url": "https://getmodpc.com",
