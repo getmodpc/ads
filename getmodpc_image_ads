@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "campaign_id": "remote_ad_2006",
-  "revision": 1,
-  "id": 10001,
+  "campaign_id": "getmodpc_image_ads",
+  "version": 1,
+  "max_show_count": 1,
   "message": "Your message here.",
   "button": "Open",
   "close_button": "Skip",
@@ -10,7 +10,6 @@
   "media_type": "image",
   "media_url": "https://drive.google.com/file/d/1N5c0uNt0_GK1KARsrAJzqHnxT0j_a2c4/view?usp=drivesdk",
   "media_height": 180,
-  "max_show_count": 1,
   "start_time": "2026-01-01 00:00:00",
   "expire": "2099-12-31 23:59:59"
 }
