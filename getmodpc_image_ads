@@ -3,7 +3,7 @@
   "campaign_id": "getmodpc_image_ads",
   "version": 8,
   "max_show_count": 1,
-  "message": "Your message here.আমি",
+  "message": "Your message here.",
   "button": "Open",
   "close_button": "Skip",
   "url": "https://getmodpc.com",
