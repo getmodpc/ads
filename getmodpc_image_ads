@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "campaign_id": "getmodpc_image_ads",
-  "version": 7,
+  "version": 8,
   "max_show_count": 1,
   "message": "Your message here.আমি",
   "button": "Open",
