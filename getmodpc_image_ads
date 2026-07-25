@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "campaign_id": "getmodpc_image_ads",
-  "version": 5,
+  "version": 6,
   "max_show_count": 1,
   "message": "Your message here.",
   "button": "Open",
@@ -10,6 +10,6 @@
   "media_type": "image",
   "media_url": "https://drive.google.com/file/d/1N5c0uNt0_GK1KARsrAJzqHnxT0j_a2c4/view?usp=drivesdk",
   "media_height": 180,
-  "start_time": "2026-01-01 00:00:00",
-  "expire": "2026-2-31 23:59:59"
+  "start_time": "2026-07-25 13:45:00",
+  "expire": "2026-07-25 13:48:00"
 }
