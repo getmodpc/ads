@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "campaign_id": "getmodpc_image_ads",
   "version": 8,
   "max_show_count": 1,
