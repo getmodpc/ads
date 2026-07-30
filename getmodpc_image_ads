@@ -1,7 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
   "campaign_id": "getmodpc_image_ads",
-  "version": 9,
+  "version": 10,
   "max_show_count": 1,
   "message": "Your message here.",
   "button": "Open",
