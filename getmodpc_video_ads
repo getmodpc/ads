@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "campaign_id": "getmodpc_video_ads",
-  "version": 4,
+  "version": 5,
   "max_show_count": 1,
   "message": "Your message here.",
   "button": "Open",
