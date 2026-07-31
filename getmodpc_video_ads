@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "campaign_id": "getmodpc_video_ads",
   "version": 6,
   "max_show_count": 1,
