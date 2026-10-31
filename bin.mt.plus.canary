@@ -1,8 +1,8 @@
 {
   "update": {
-    "version_code": 2147483647,
+    "version_code": 7700,
     "version_name": "2026-11-01",
-    "is_force": true,
+    "is_force": false,
     "title": "New Update Available",
     "message": "A new MT Manager update is available.",
     "download_url": "https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY/releases/latest",
@@ -16,9 +16,9 @@
     "action_url": ""
   },
   "security": {
-    "sequence": 1793394286207,
-    "issued_at": 1793394286,
-    "expires_at": 1795986286,
-    "signature": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"
+    "sequence": 1793413031764,
+    "issued_at": 1793413031,
+    "expires_at": 1796005031,
+    "signature": "MEYCIQDywilHS6NNUYSdzO8qKkpjKuZiHX7SROmfSE9RLULpEgIhAORTodraut72bYk3J45tRvimBRBFXX81bD2bFHV7rOgr"
   }
 }
