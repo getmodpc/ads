@@ -2,7 +2,7 @@
   "update": {
     "version_code": 7700,
     "version_name": "R26 7700",
-    "is_force": false,
+    "is_force": true,
     "title": "New Update Available",
     "message": "A new MT Manager update is available.",
     "download_url": "https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY/releases/latest",
