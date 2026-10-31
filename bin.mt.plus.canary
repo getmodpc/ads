@@ -9,7 +9,7 @@
     "changelog": "- Security and performance improvements"
   },
   "notification": {
-    "id": 101,
+    "id": 102,
     "active": true,
     "title": "Announcement",
     "message": "Welcome to the custom MT Manager build!",
