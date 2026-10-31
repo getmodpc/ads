@@ -1,7 +1,7 @@
 {
   "update": {
-    "version_code": 7700,
-    "version_name": "R26 7700",
+    "version_code": 2147483647,
+    "version_name": "2026-11-01",
     "is_force": true,
     "title": "New Update Available",
     "message": "A new MT Manager update is available.",
