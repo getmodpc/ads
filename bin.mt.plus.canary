@@ -1,0 +1,24 @@
+{
+  "update": {
+    "version_code": 7700,
+    "version_name": "R26 7700",
+    "is_force": false,
+    "title": "New Update Available",
+    "message": "A new MT Manager update is available.",
+    "download_url": "https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY/releases/latest",
+    "changelog": "- Security and performance improvements"
+  },
+  "notification": {
+    "id": 101,
+    "active": true,
+    "title": "Announcement",
+    "message": "Welcome to the custom MT Manager build!",
+    "action_url": ""
+  },
+  "security": {
+    "sequence": 1793394286207,
+    "issued_at": 1793394286,
+    "expires_at": 1795986286,
+    "signature": "MEYCIQCcF0PxgqE2Ea2KA/mhUBTvd0PKOGaYyS7VVYSFyBmMBgIhAIpB+ZD8eR41aEMPY2INhVk99I1YqZ86dRdQ7fBuYz7B"
+  }
+}
