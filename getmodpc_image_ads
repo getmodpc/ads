@@ -1,15 +1,15 @@
 {
   "enabled": true,
   "campaign_id": "getmodpc_image_ads",
-  "version": 15,
-  "max_show_count": 2,
-  "message": "🔥 We have partnered with EasyPlayTV to bring you unlimited free HD IPTV + Movies + TV Shows with NO ADS! 📺🎬⚽️ Join us on telegram and download our android app below.",
+  "version": 16,
+  "max_show_count": 1,
+  "message": "🔥 Join us on Telegram and Download Easyplay TV for FREE! Enjoy Live TV, Sports, Movies, and TV Shows on Android TV + Android Mobile 📺.",
   "button": " Download Now",
   "close_button": "",
-  "url": "https://t.me/EasyPlaytv_official/38",
+  "url": "https://t.me/EasyPlaytv_official/53",
   "media_type": "image",
-  "media_url": "https://drive.google.com/file/d/125jRMyLx5R_MJ0dt0b2HVeDN6wGDQ04G/view?usp=drivesdk",
+  "media_url": "https://drive.google.com/file/d/19xbmuZAGHZzBPpjvFl2G5cJFQaY6yzwh/view?usp=drivesdk",
   "media_height": 180,
-  "start_time": "2026-07-25 13:45:00",
-  "expire": "2099-07-25 13:48:00"
+  "start_time": "2026-11-02 23:06:00",
+  "expire": "2026-11-09 23:06:00"
 }
