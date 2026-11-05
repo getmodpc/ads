@@ -1,10 +1,10 @@
 {
   "enabled": true,
   "campaign_id": "getmodpc_image_ads",
-  "version": 17,
+  "version": 18,
   "max_show_count": 1,
   "message": "🔥 We have partnered with EasyPlayTV to bring you unlimited free HD IPTV + Movies + TV Shows with NO ADS! 📺🎬⚽️\n\nJoin us on telegram and download our android app below.",
-  "button": "",
+  "button": "Download Now",
   "close_button": "",
   "url": "https://t.me/EasyPlaytv_official/53",
   "media_type": "image",
