@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "campaign_id": "getmodpc_image_ads",
-  "version": 20,
-  "max_show_count": 1,
+  "version": 18,
+  "max_show_count": 2,
   "message": "🔥 We have partnered with Spotify",
   "button": "Download Now",
   "close_button": "Skip",
