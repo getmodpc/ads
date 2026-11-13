@@ -1,15 +1,15 @@
 {
   "enabled": true,
   "campaign_id": "getmodpc_image_ads",
-  "version": 19,
+  "version": 20,
   "max_show_count": 1,
-  "message": "🔥 We have partnered with YouTube Premium MOD to bring you YouTube streaming with NO ADS, offline playback, background audio, and YouTube Downloading! 📺🎬🎵\n\nJoin us on telegram and download our android app below!",
+  "message": "🔥 We have partnered with Spotify",
   "button": "Download Now",
   "close_button": "Skip",
-  "url": "https://t.me/YoutubePremium_sh/4948",
+  "url": "https://t.me/SpotifyPremiumModded/4",
   "media_type": "image",
-  "media_url": "https://imgh.in/host/c272x3",
+  "media_url": "https://imgh.in/host/mpmpf7",
   "media_height": 180,
-  "start_time": "2026-11-02 23:06:00",
-  "expire": "2026-11-09 23:06:00"
+  "start_time": "2026-11-09 23:06:00",
+  "expire": "2026-11-17 23:06:00"
 }
