@@ -5,7 +5,7 @@
   "max_show_count": 3,
   "message": "Your message here.",
   "button": "Download Now",
-  "close_button": "Skip",
+  "close_button": "",
   "skip_delay_seconds": 20,
   "url": "https://getmodpc.com",
   "media_type": "video",
