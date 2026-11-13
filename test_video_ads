@@ -6,7 +6,6 @@
   "message": "Your message here.",
   "button": "Download Now",
   "close_button": "",
-  "skip_delay_seconds": 20,
   "url": "https://getmodpc.com",
   "media_type": "video",
   "media_url": "https://streamable.com/r0ycet",
