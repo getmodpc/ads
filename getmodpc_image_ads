@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "campaign_id": "getmodpc_image_ads",
-  "version": 21,
+  "version": 22,
   "max_show_count": 1,
   "message": "🔥 We have partnered with Spotify Premium MOD to bring you the first official Spotify mod  with NO ADS, offline playback, background audio, and playlist Downloading! 🎬🎵\n\nJoin us on telegram and download our android app below!",
   "button": "Download Now",
@@ -11,5 +11,5 @@
   "media_url": "https://imgh.in/host/mpmpf7",
   "media_height": 180,
   "start_time": "2026-11-09 23:06:00",
-  "expire": "2026-11-17 23:06:00"
+  "expire": "2026-11-24 23:06:00"
 }
